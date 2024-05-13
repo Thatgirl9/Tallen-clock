@@ -47,7 +47,7 @@ const Dashboard = () => {
         </ul>
       </nav> */}
 
-      <main className="flex justify-center items-center">
+      <main className=" h-[80vh] flex justify-center items-center">
         <div>
           <Outlet />
         </div>
